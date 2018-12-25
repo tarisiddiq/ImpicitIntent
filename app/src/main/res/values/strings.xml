@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImpicitIntent</string>
+    <string name="button_share" />
+    <string name="edittext_share" />
+    <string name="button_loc" />
+    <string name="edittext_loc" />
+    <string name="button_uri" />
+    <string name="edittext_uri" />
+</resources>
